@@ -17,16 +17,28 @@ public class Bubblesort {
         }
     }
 
-    public static void main(String[] args) {
-        int ar[] = { 12, 11, 13, 5, 6 };
-
-        Bubblesort main = new Bubblesort();
-
-        main.Bubblesorts(ar, ar.length, 0, 0);
+    public static void Loop (int ar[]){
+        System.out.print("Array " + ar.length + " Output:- ");
 
         for (int i = 0; i < ar.length; i++) {
             System.out.print(ar[i] + " ");
         }
+
+        System.out.print("\n");
+    }
+    public static void main(String[] args) {
+        int ar[] = { 12, 11, 13, 5, 6 };
+        int ar2[] = { 12, 11, 13, 5, 6, 122, 1, 18, 15, 16 };
+        int ar3[] = { 12, 11, 13, 5, 6, 122, 1, 18, 15, 16, 75, 19, 180, 145, 106 };
+
+        Bubblesort main = new Bubblesort();
+
+        main.Bubblesorts(ar, ar.length, 0, 0);
+        main.Bubblesorts(ar2, ar2.length, 0, 0);
+        main.Bubblesorts(ar3, ar3.length, 0, 0);
+        Loop(ar);
+        Loop(ar2);
+        Loop(ar3);
     }
 
 }
