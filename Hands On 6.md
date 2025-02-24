@@ -17,3 +17,8 @@ I have uploaded the file "quicksort.py," which contains the quicksort code with 
  
 ---
 
+---
+## 3. Mathematically derive the average runtime complexity of the non-random pivot version of quicksort.
+
+
+---
