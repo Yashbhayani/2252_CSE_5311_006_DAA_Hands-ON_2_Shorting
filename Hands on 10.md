@@ -13,6 +13,6 @@
  
 #### Code File: hash_table.py
 #### Code Output:
-
+![hashtable](https://github.com/user-attachments/assets/a196c271-2873-46d5-b3e4-e87df139f5de)
 
 ---
