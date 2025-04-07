@@ -9,8 +9,7 @@ Code Output:
 ---
 
 ## 2. Answer the following question hw_17.pdf.
-
-![image](https://github.com/user-attachments/assets/c0df1b92-7a22-4a7b-8553-fc364c04c20f)
+![image](https://github.com/user-attachments/assets/b89a3624-cda1-4176-bf8b-4e50a4c1016e)
 ![image](https://github.com/user-attachments/assets/df796791-c2ae-4a12-ba17-7cf0ee38f102)
 ![image](https://github.com/user-attachments/assets/79ad66ea-7d2d-49be-85b1-087974a8269f)
 
