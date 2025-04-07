@@ -4,13 +4,15 @@
 
 Code File: dynamic_array.py
 Code Output:
-![dynamic_array_output](https://github.com/user-attachments/assets/47e7e01a-31b8-46b2-be57-e793c1e36447)
+![image](https://github.com/user-attachments/assets/1a880d8e-a97c-4e91-8bd2-101aab8fd13b)
 
 ---
 
 ## 2. Answer the following question hw_17.pdf.
 
-![2-a](https://github.com/user-attachments/assets/3a36e4fe-23f3-48cf-9bdb-ccf520c213ed)
-![2-b](https://github.com/user-attachments/assets/1f7189a3-c19d-4944-a479-3145b7469524)
+![image](https://github.com/user-attachments/assets/c0df1b92-7a22-4a7b-8553-fc364c04c20f)
+![image](https://github.com/user-attachments/assets/df796791-c2ae-4a12-ba17-7cf0ee38f102)
+![image](https://github.com/user-attachments/assets/79ad66ea-7d2d-49be-85b1-087974a8269f)
+
 
 ---
