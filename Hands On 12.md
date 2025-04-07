@@ -12,7 +12,7 @@ Code Output:
 ## 2. Answer the following question hw_17.pdf.
 ![image](https://github.com/user-attachments/assets/b89a3624-cda1-4176-bf8b-4e50a4c1016e)
 ![image](https://github.com/user-attachments/assets/79ad66ea-7d2d-49be-85b1-087974a8269f)
-![image](https://github.com/user-attachments/assets/c6ca88b9-8a7c-493e-8930-747f1e309e6a)
+![image](https://github.com/user-attachments/assets/d4c4a0df-772a-45dd-a971-45e3ddc9d654)
 
 
 ---
