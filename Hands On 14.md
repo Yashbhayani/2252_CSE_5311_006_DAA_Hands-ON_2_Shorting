@@ -11,6 +11,7 @@
 #### Code File: topological_sort.py
 Example taken from Introduction to Algorithms 3rd Edition Page No. 615
 #### Code Output:
+![TS](https://github.com/user-attachments/assets/0a46e9c4-9c62-4f23-b52d-6935216cb722)
 
 ---
 
@@ -19,6 +20,7 @@ Example taken from Introduction to Algorithms 3rd Edition Page No. 615
 #### Code File: depth_first_search.py
 Example taken from Introduction to Algorithms 3rd Edition Page No. 605
 #### Code Output:
+![DFS](https://github.com/user-attachments/assets/6cdd2f87-a5ab-45e0-bcfe-b186e611044f)
 
 ---
 
@@ -27,5 +29,6 @@ Example taken from Introduction to Algorithms 3rd Edition Page No. 605
 #### Code File: kruskal_algorithm.py
 Example taken from Introduction to Algorithms 3rd Edition Page No. 632
 #### Code Output:
+![KA](https://github.com/user-attachments/assets/ffcd1dcd-4d81-4f37-a501-d68aaf5e2533)
 
 ---
